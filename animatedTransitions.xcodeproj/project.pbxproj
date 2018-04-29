@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B61F0292094CD9900EA151C /* PropertyStoring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B61F0282094CD9900EA151C /* PropertyStoring.swift */; };
 		5BFA0B8D2093A11500BDDD71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BFA0B8C2093A11500BDDD71 /* AppDelegate.swift */; };
 		5BFA0B8F2093A11500BDDD71 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BFA0B8E2093A11500BDDD71 /* ViewController.swift */; };
 		5BFA0B922093A11500BDDD71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BFA0B902093A11500BDDD71 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5B61F0282094CD9900EA151C /* PropertyStoring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyStoring.swift; sourceTree = "<group>"; };
 		5BFA0B892093A11500BDDD71 /* animatedTransitions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = animatedTransitions.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BFA0B8C2093A11500BDDD71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5BFA0B8E2093A11500BDDD71 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				5BFA0B8C2093A11500BDDD71 /* AppDelegate.swift */,
 				5BFA0B8E2093A11500BDDD71 /* ViewController.swift */,
+				5B61F0282094CD9900EA151C /* PropertyStoring.swift */,
 				5BFA0B902093A11500BDDD71 /* Main.storyboard */,
 				5BFA0B932093A11600BDDD71 /* Assets.xcassets */,
 				5BFA0B952093A11600BDDD71 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				5BFA0B8F2093A11500BDDD71 /* ViewController.swift in Sources */,
 				5BFA0B8D2093A11500BDDD71 /* AppDelegate.swift in Sources */,
+				5B61F0292094CD9900EA151C /* PropertyStoring.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
